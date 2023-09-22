@@ -1,0 +1,34 @@
+body {
+    border: 10px solid #fff8dc;
+    padding: 5px;
+    font-family: sans-serif;
+}
+
+.heading {
+    text-align: center;
+    background-color: #fff8dc ;
+    margin: auto;
+}
+
+.content {
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px; 
+    text-align: center;
+}
+
+li {
+    text-align: end; 
+    display: inline; 
+    font-size: 35px;
+}
+
+h2, h3, h4, h5 {
+    font-size: 25px;
+}
+
+footer {
+    text-align: center;
+}
