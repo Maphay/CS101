@@ -1,17 +1,43 @@
 body {
-    border: 10px solid #fff8dc;
-    padding: 5px;
-    margin: 8px;
-    font-family: sans-serif;
-}
-
-.heading {
+    background-color: #fff8dc;
+    margin: 0%;
     text-align: center;
-    margin: auto;
+    font-family: sans-serif;
 }
 
 .content {
     text-align: center;
+    background-color: white;
+}
+
+.chairs {
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+}
+
+.centerchair {
+    width: 50%;
+}
+
+.leftchair1 {
+    width: 50%;
+    float: left;
+}
+
+.rightchair1 {
+    width: 50%;
+    float: right;
+}
+
+.leftchair2 {
+    width: 50%;
+    float: left;
+}
+
+.rightchair2 {
+    width: 50%;
+    float: right;
 }
 
 h1 {
